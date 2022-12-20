@@ -3,7 +3,7 @@ Soy un MID Full Stack, ya que me gustan toda clase de retos, no quiero cerrarme 
 No soy alguien casado con un lenguaje puesto que no me gusta la monotonia, asi que aprendo de varios mas para mejorar mis habilidades.
 
 Lenguajes:
-  | JavaScript/TypeScript
+   JavaScript/TypeScript
   | PHP
   | C#
   | Python
@@ -12,7 +12,7 @@ Lenguajes:
   | Java
   
 FrameWorks:
-  | React
+   React
   | React Native
   | Express
   | Next
