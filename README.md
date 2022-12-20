@@ -3,22 +3,22 @@ Soy un MID Full Stack, ya que me gustan toda clase de retos, no quiero cerrarme 
 No soy alguien casado con un lenguaje puesto que no me gusta la monotonia, asi que aprendo de varios mas para mejorar mis habilidades.
 
 Lenguajes:
-  -JavaScript/TypeScript
-  -PHP
-  -C#
-  -Python
-  -Golang
-  -SQL
-  -Java
+  | JavaScript/TypeScript
+  | PHP
+  | C#
+  | Python
+  | Golang
+  | SQL
+  | Java
   
 FrameWorks:
-  -React
-  -React Native
-  -Express
-  -Next
-  -Nest
-  -Laravel
-  -CodeIgniter
-  -.NET
-  -Django
+  | React
+  | React Native
+  | Express
+  | Next
+  | Nest
+  | Laravel
+  | CodeIgniter
+  | .NET
+  | Django
  
