@@ -84,7 +84,7 @@
 <br>
 
 
-## <img style="filter: invert(1);" src="public/imgs/message3.png" width ="25"><b> Skills / Habilidades</b>
+## <img style="filter: invert(1);" src="public/imgs/message3.png" width ="25"><b> Contact Me </b>
 
 <br>
 <div align='left'>
