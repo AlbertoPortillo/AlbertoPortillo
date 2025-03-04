@@ -5,7 +5,7 @@
 <br>
 
 - Mid Full Stack
-- 4 años de experiencia / 4 years experience
+- 6 años de experiencia / 4 years experience
 - AutoDidacta / Self-Taught Person
 - ProActivo / ProActive
 - Trabajando duro y no durando en el trabajo / Working hard and not lasting at work
